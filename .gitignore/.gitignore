@@ -1,0 +1,8 @@
+Library/
+Temp/
+Builds/
+Assets/LocalAssets/
+Assets/LocalAssets.meta
+.vs/*/v15/Server/
+.vs/*/v15/sqlite3/
+.vs/*/v15/sqlite3/storage.ide
